@@ -1,5 +1,12 @@
 # Game-Hub
 There are many desktop game platforms where developers can upload and post their games. However, in the realm of web developers there is no such platform. This is where game hub comes in. Over the past few days, we have developed a chrome extension that houses web-based games in the form of an open source platform. On game-hub, developers can post and add their games to a public platform for people to enjoy.
+
+Sashreek Kalakota - Helped create the games Flappy Bird and Pong.
+
+Nirav Kanthed - Helped create the Chrome Extension that holds the games.
+
+Sharan Subramanian - Helped create the Snake game.
+
 # How to Use The Program
 1.Download The files in the folder "GameHub Extention" Once downloaded put the files in a folder <br />
 2.Open Chrome and click on the 3 dots in the top right hand corner <br />
